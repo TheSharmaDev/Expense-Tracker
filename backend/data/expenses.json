@@ -1,0 +1,29 @@
+[
+  {
+    "amount": "4.00",
+    "category": "Food",
+    "description": "WFWSF",
+    "date": "2026-04-26",
+    "client_id": "b7794c2c-224e-4a94-9e4d-774be301239c",
+    "id": "b94f9d19-036a-44bf-8b8e-0ddc932a2c13",
+    "created_at": "2026-04-26T11:21:13.466954+00:00"
+  },
+  {
+    "amount": "325.00",
+    "category": "Shopping",
+    "description": "RSGSDFVG",
+    "date": "2026-04-26",
+    "client_id": "5d72bd07-b74e-4733-9c0a-259e3889dd8d",
+    "id": "ded701c8-d3f5-49f6-b54c-2f16b758483f",
+    "created_at": "2026-04-26T11:21:40.767737+00:00"
+  },
+  {
+    "amount": "3431245.00",
+    "category": "Health",
+    "description": "ERGSFG",
+    "date": "2026-04-26",
+    "client_id": "c53cc27b-0f5c-4b2b-ab73-f2238a7e6b36",
+    "id": "a905c668-0f87-4764-b1ea-b48321d63a44",
+    "created_at": "2026-04-26T11:23:02.911360+00:00"
+  }
+]
