@@ -1,4 +1,5 @@
-const API_BASE = import.meta.env.VITE_API_BASE || '/api';
+const API_BASE = "https://expense-tracker-8l7m.onrender.com";
+
 
 async function request(url, options = {}) {
   const controller = new AbortController();
